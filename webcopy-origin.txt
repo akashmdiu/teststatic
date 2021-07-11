@@ -10,7 +10,7 @@ Uri: https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Open+Sans&d
 File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\css2.css
 Content Type: text/css
 
-Uri: https://backoffice.gthememarket.com/assets/css/app.min.css?v=ebf830535d
+Uri: https://backoffice.gthememarket.comassets/css/app.min.css?v=ebf830535d
 File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\assets\css\app.min.css
 Content Type: text/css
 
