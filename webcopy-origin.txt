@@ -334,7 +334,7 @@ Uri: https://backoffice.gthememarket.com/assets/images/footer-brand.png?v=ebf830
 File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\assets\images\footer-brand.png
 Content Type: image/png
 
-Uri: https://backoffice.gthememarket.com/assets/js/build.min.js?v=ebf830535d
+Uri: https://backoffice.gthememarket.comassets/js/build.min.js?v=ebf830535d
 File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\assets\js\build.min.js
 Content Type: application/javascript
 
