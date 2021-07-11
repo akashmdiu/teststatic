@@ -1182,10 +1182,6 @@ Uri: https://twitter.com/ghost
 File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\ghost.html
 Content Type: text/html
 
-Uri: https://www.facebook.com/ghost
-File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\ghost-1.html
-Content Type: text/html
-
 Uri: https://ghost.org/integrations/?tag=forms
 File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\integrations\index-2.htm
 Content Type: text/html
@@ -1203,7 +1199,7 @@ File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\sponsors\TryGho
 Content Type: text/html
 
 Uri: https://opencollective.com/ghost
-File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\ghost-2.html
+File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\ghost-1.html
 Content Type: text/html
 
 Uri: https://www.instagram.com/
@@ -1632,6 +1628,10 @@ Content Type: text/html
 
 Uri: https://www.pinterest.com/pin/create/button/?https://backoffice.gthememarket.com/the-best-homemade-pizza-youll-ever-eat/&media=https://backoffice.gthememarket.com/content/images/2021/07/blog-img19.jpg
 File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\pin\create\button\index-26.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/login/?next=https:%2F%2Fwww.facebook.com%2Fghost
+File Name: E:\OfficeWork\static-site\backoffice.gthememarket.com\login\index.htm
 Content Type: text/html
 
 Uri: https://www.instagram.com/accounts/login/

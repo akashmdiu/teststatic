@@ -91,6 +91,7 @@
     </a>
 </div>
 `;
+
 $('#gh-search-results').remove();
 $('#search-modal .modal-body').append(searchResult);
 $('#gh-search-results, div#gh-search-results p').css('display', 'none');
